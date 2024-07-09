@@ -1,0 +1,14 @@
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\bin\Debug\net8.0\Bin2Decimal.exe
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\bin\Debug\net8.0\Bin2Decimal.deps.json
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\bin\Debug\net8.0\Bin2Decimal.runtimeconfig.json
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\bin\Debug\net8.0\Bin2Decimal.dll
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\bin\Debug\net8.0\Bin2Decimal.pdb
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.AssemblyInfoInputs.cache
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.AssemblyInfo.cs
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.csproj.CoreCompileInputs.cache
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.dll
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\refint\Bin2Decimal.dll
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.pdb
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.genruntimeconfig.cache
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\ref\Bin2Decimal.dll
