@@ -12,3 +12,4 @@ D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Deb
 D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.pdb
 D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.genruntimeconfig.cache
 D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\ref\Bin2Decimal.dll
+D:\estudos\prog\C#\c_sharp_app_ideas\_1_begginer\bin2decimal\Bin2Decimal\obj\Debug\net8.0\Bin2Decimal.sourcelink.json

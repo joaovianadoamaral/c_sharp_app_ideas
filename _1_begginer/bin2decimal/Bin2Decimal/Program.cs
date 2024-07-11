@@ -5,19 +5,56 @@
         static void Main(string[] args)
         {
             string StringBinary;
+
             int IntDecimal;
+            int UserAnswer;
+
+            const int Binary2Decimal = 1;
+            const int Decimal2Binary = 2;
             const int InputError = -1;
 
-            Console.Write("Enter up to 8 binary digits: ");
-            StringBinary = Console.ReadLine();
+            UserAnswer = Menu();
 
-            IntDecimal = CalculatorDecimalBinary.Bin2Dec(StringBinary);
-
-            if (IntDecimal != InputError)
+            if (UserAnswer == Binary2Decimal)
             {
-                Console.WriteLine($"{IntDecimal} (b10)");
+
+                Console.Write("Enter with binary digits: ");
+                StringBinary = Console.ReadLine();
+
+                IntDecimal = CalculatorDecimalBinary.Bin2Dec(StringBinary);
+
+                if (IntDecimal != InputError)
+                {
+                    Console.WriteLine($"{IntDecimal} (b10)");
+                }
             }
 
+            if (UserAnswer == Decimal2Binary)
+            {
+                // lógica dec2bin
+
+            }
+
+        }
+
+        static int Menu()
+        {
+            int choose;
+
+            List<string> Options = new List<string>();
+            Options = ["\tMENU", "(0) Sair", "(1) BINARY -> DECIMAL ", "(2) DECIMAL -> BINARY"];
+
+            foreach (string Option in Options)
+            {
+                Console.WriteLine(Option);
+            }
+
+            Console.WriteLine();
+            Console.Write("CHOOSE >>> ");
+
+            choose = int.Parse(Console.ReadLine());
+
+            return choose;
         }
     }
 }
